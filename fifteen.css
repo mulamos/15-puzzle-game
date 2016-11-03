@@ -45,7 +45,7 @@ h1 {
 	border: 2px solid black;
 	height: 96px;
 	line-height: 96px;
-	/*position: absolute;*/
+	position: absolute;
 	text-align: center;
 	vertical-align: middle;
 	width: 96px;
